@@ -5,23 +5,10 @@
 }
 
 .boton{
-    width: 300px;
-    padding: 30px;
+    padding: 20px;
 }
 
-.contenedor{
-    margin: 1px white;
+.boton1{
+    padding: 25px;
 }
 
-
-#Lente{
-    animation-delay: .5s;
-}
-
-#JP{
-    animation-delay: 1s;
-}
-
-#PM{
-    animation-delay: 1.5s;
-}
