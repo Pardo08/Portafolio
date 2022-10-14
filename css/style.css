@@ -1,14 +1,38 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-.boton{
-    padding: 20px;
+.centrar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
 }
 
-.boton1{
+.caja1 {
+    margin: 5px white;
+}
+
+.boton {
     padding: 25px;
+    margin: 0;
+    width: 100%;
 }
 
+.boton1 {
+    padding: 5px;
+}
+
+.boton2 {
+    padding: 17px;
+}
+
+.logo {
+    width: 100%;
+}
+
+.rueda {
+    width: 100%;
+}
