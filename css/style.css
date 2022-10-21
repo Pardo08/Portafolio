@@ -8,7 +8,6 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    flex-direction: column;
 }
 
 .caja1 {
@@ -49,7 +48,17 @@
 }
 
 .logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 100%;
+}
+
+.logo1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80%;
 }
 
 .rueda {
@@ -72,4 +81,69 @@
 .letra {
     max-width: 100px;
     min-width: 10px;
+}
+
+.texto {
+    text-align: center;
+    color: white;
+}
+
+.caja4 {
+    height: 150px;
+}
+
+.caja5 {
+    width: 100%;
+}
+
+.foto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 200px;  
+}
+
+.caja6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.caja7 {
+    padding:50px;
+}
+
+.barras {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.caja8{
+    padding: 20px;
+}
+
+.galeria {
+    width: 100%;
+}
+
+.galeria1 {
+    width: 80%;
+}
+
+.caja9 {
+    padding-top: 10px;
+}
+
+.caja10 {
+    padding-top: 20px;
+}
+.galeria2 {
+    width: 90%;
+}
+
+.caja11 {
+    padding: 20px;
 }
